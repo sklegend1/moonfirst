@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/moonfirst/static/css/main.2426fd65.css",
+    "main.js": "/moonfirst/static/js/main.b34749bc.js",
+    "static/js/787.679d5274.chunk.js": "/moonfirst/static/js/787.679d5274.chunk.js",
+    "static/media/moon1.webp": "/moonfirst/static/media/moon1.abcf8ca0d4f83111f27d.webp",
+    "static/media/moonlight1.webp": "/moonfirst/static/media/moonlight1.dea2642f2a6ff9abb316.webp",
+    "static/media/galaxy-background.webp": "/moonfirst/static/media/galaxy-background.157ec168ef9a53973528.webp",
+    "index.html": "/moonfirst/index.html",
+    "main.2426fd65.css.map": "/moonfirst/static/css/main.2426fd65.css.map",
+    "main.b34749bc.js.map": "/moonfirst/static/js/main.b34749bc.js.map",
+    "787.679d5274.chunk.js.map": "/moonfirst/static/js/787.679d5274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2426fd65.css",
+    "static/js/main.b34749bc.js"
+  ]
+}
